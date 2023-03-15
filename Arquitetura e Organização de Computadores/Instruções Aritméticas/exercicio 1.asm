@@ -9,7 +9,6 @@
 
     li		$v0,1
 
-    move 	$v0, $t3
+    move 	$a0, $t3
 
     syscall
-    
