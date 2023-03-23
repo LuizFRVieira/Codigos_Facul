@@ -1,0 +1,12 @@
+
+10
+{Persephone Belluci; {Rua_Revolutions,12 ; Apucarana; Parana} ; 3200; solteiro; 30; F}
+{Morpheus Fishburne; {Rua_Oraculo,50 ; Ribeirao Bonito; Parana} ; 7200; casado; 50; M}
+{Cypher_Joe Pantoliano; {Rua Switch  Zee,300 ; Bandeirantes; Parana} ; 2200; casado; 60; M}
+{Trinity_Moss; {Rua Dozer,1200 ; Londrina; Parana} ; 9200; casado; 43; F}
+{Smith_Jey; {Avenida Apoc,1402 ; Londrina; Parana} ; 3200; casado; 43; M}
+{MuriNeo_Moore; {Avenida Keanu Reeves,502 ; Apucarana; Parana} ; 10000; casado; 58; M}
+{Havena_Moore; {Avenida Keanu Reeves,502 ; Apucarana; Parana} ; 12200; casado; 58; F}
+{Lee Mary_Jhones; {Rua Switch  Zee,350 ; Bandeirantes; Parana} ; 2800; casado; 60; F}
+{Jack_Pantoliano; {Rua Switch  Zee,300 ; Bandeirantes; Parana} ; 5200; casado; 65; M}
+{Lina_Moorey; {Rua Switch  Pool,1200 ; Londrina; Parana} ; 6800; solteira; 45; F}
