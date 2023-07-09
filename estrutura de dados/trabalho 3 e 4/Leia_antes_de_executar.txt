@@ -1,0 +1,6 @@
+Sempre antes de executar a função 3 do ADMINISTRADOR,
+execute a função 2. Caso seja executado a função 3 diretamente
+os clientes da lista de espera será apagado.
+
+O relatório é salvo assim que fechar o programa na
+opção 9 na parte administrativa.
